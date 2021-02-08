@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+
+input{ 
+    margin:20px;
+  
+}
+
+
+#myContainer{
+    height:95vh;
+    width:100vw;
+    background-color:black; 
+}
+
+.dot{
+    position:absolute;
+    height:30px;
+    width:30px;
+}
